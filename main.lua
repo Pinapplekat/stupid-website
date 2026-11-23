@@ -1,6 +1,6 @@
 local p = get("p")
 
-local test = "Rizzler"
+local test = "User"
 
 local res = fetch({
     url = "http://127.0.0.1:7999/new",
